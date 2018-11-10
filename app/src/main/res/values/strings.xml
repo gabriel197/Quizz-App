@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project 3</string>
+    <string name="title">How much do you know about\n \"Rap God\"</string>
+    <string name="eminem_name">1. Witch is the real name of Eminem?</string>
+    <string name="marshall_bruce">Marshall Bruce</string>
+    <string name="marshall_eminem">Marshall Eminem</string>
+    <string name="marshall_bruce_mathers">Marshall Bruce Mathers</string>
+    <string name="where_was_born">2. Where was Marshall born?</string>
+    <string name="san_fiero">San Fiero</string>
+    <string name="detroit">Detroit</string>
+    <string name="california">California</string>
+    <string name="discovered_eminem">3. Who are the people witch dicovered Eminem and helped him to become the most poppular raper?</string>
+    <string name="future">Future</string>
+    <string name="snoop_dogg">Snoop Dogg</string>
+    <string name="dr_dre">Dr.Dre</string>
+    <string name="_2pac">2Pac</string>
+    <string name="december">4. On 15.12.17, Eminem launched _______ album.</string>
+    <string name="album_name">Name of album</string>
+    <string name="child_marshall">5. Does Marshall have a child?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="reset_score">reset score</string>
+</resources>
